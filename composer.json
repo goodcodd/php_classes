@@ -1,0 +1,17 @@
+{
+    "name": "newhomework/app",
+    "description": "New php homework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "NewHomework\\App\\": "NewHomework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nastya"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
